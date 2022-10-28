@@ -1,3 +1,5 @@
+<h3>Let's safely use smartphones, etc. ; 스마트기기. 안전하게 사용합시다. </h3>
+<br/>
 # AutoCodeCheck
 Make, like method, ... code. Programming check, make function throught Swing Java. This program. Thank you.
 
@@ -8,6 +10,13 @@ How to use traslate~.
 함수추가하기, 변수이름 적기. 변환이 어떻게 필요한가... 메소드안에서 기능을 추가할 때 마다, for문. 이런 부분을 찾기 어렵게 된달까요. 그런것을 정리하는 기능을 만들어볼 예정입니다.
 
 코딩하기가 더 편해지겠죠. 이것으로 개발해보세요.  만들어갈 예정입니다.
+
+2022년 10월 29일...
+
+따로 깃을 만들었습니다. 만들다가... 다시 여기 글로 들어와서 글적고... 손이 많이가고... 피곤도하고... 댓글 잘 달구요. 저역시 바쁘거나 잊어버려서, 소통을 잘 못할때가 있기는 합니다. 지식중에 그런 부분 있기는 하다고 생각해요. 여기에 이어서 만들고 있으니, 한번 보시고... 공부도 해보세요. 재미있네요.
+<br/>
+https://github.com/infott2t/AutoCheckCode3
+
 
 
 
